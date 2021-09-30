@@ -15,6 +15,10 @@ leftnav:
   name: link goes here
   url: resources/res-8-007f19-th
   weight: 30
+- identifier: 2fea7409-7457-1568-eab7-8a9d5052c03a
+  name: link for fusion
+  url: resources/episode-6-element-production-fusion-part-1
+  weight: 40
 - identifier: 88acfb94-6f43-ab41-6a23-058d3396da6a
   name: '1: Introduction and Overview'
   parent: c94cd5fc-7beb-30c8-579b-9915475af643
