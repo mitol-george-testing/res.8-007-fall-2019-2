@@ -1,0 +1,72 @@
+leftnav:
+- identifier: f0049b60-c41d-eba9-6503-99cea78e8974
+  name: Instructor Insights
+  url: pages/instructor-insights
+  weight: 0
+- identifier: c94cd5fc-7beb-30c8-579b-9915475af643
+  name: Videos
+  url: pages/Videos/
+  weight: 10
+- identifier: 319e2701-7754-aff6-c952-fe35e37405ac
+  name: Related Resources
+  url: pages/relatedresources
+  weight: 20
+- identifier: e1dc4f65-9b36-3ca5-ddd7-c5bf472c93c7
+  name: link goes here
+  url: resources/res-8-007f19-th
+  weight: 30
+- identifier: 2fea7409-7457-1568-eab7-8a9d5052c03a
+  name: link for fusion
+  url: resources/episode-6-element-production-fusion-part-1
+  weight: 40
+- identifier: 88acfb94-6f43-ab41-6a23-058d3396da6a
+  name: '1: Introduction and Overview'
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  url: pages/Videos/episode1
+  weight: 0
+- identifier: eec27429-acc4-6379-cd61-0dd056ffe62d
+  name: '2: What the Universe is Made Of'
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  url: pages/Videos/episode2
+  weight: 10
+- identifier: e48836d5-9623-019e-3a68-94b36c1ee1c5
+  name: '3: Early Chemical Evolution'
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  url: pages/Videos/episode3
+  weight: 20
+- identifier: 62345f6a-a34e-7bed-ec5a-b38d06c01915
+  name: '4: The First Chemical Enrichment Events'
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  url: pages/Videos/episode4
+  weight: 30
+- identifier: fbbdc769-1d23-2c30-a32f-80e9ef7779ac
+  name: '5: Stellar Archaeology'
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  url: pages/Videos/episode5
+  weight: 40
+- identifier: 6c842392-b69e-7882-ed15-ba63845a8564
+  name: "7: Element Production (Fusion)\u2014Part 2"
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  url: pages/Videos/episode7
+  weight: 50
+- identifier: db4cc077-09fd-5d79-e299-288b2897a53b
+  name: '8: Spectroscopy'
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  url: pages/Videos/episode8
+  weight: 60
+- identifier: d2289056-9c8c-1d4a-b710-113559d8e7b6
+  name: '9: Formation of the Heaviest Elements'
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  url: pages/Videos/episode9
+  weight: 70
+- identifier: 1cd30558-ca8b-3129-0a02-cf26c8cde827
+  name: '10: Telescopes and Observing'
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  url: pages/Videos/episode10
+  weight: 80
+- identifier: fd786383-a947-a2e2-2752-08d424883a35
+  name: '11: Summary'
+  parent: c94cd5fc-7beb-30c8-579b-9915475af643
+  url: pages/Videos/episode11
+  weight: 90
+title: Left Nav

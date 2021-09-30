@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Astrophysics"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "0bb74f02-6e52-c6eb-1b90-fe7d782be397"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Cosmic Origin of the Chemical Elements ",
+  "course_description": "Everything around us is made from different chemical elements: carbon, silicon, iron, and all the other elements from the Periodic Table. The lighter elements were mostly produced in the Big Bang, but the rest were (and are) formed within stars and in the explosions of supernovae. In this series of short lecture videos, created to accompany her book _Searching for the Oldest Stars: Ancient Relics from the Early Universe_ (Princeton University Press, 2019), Professor Anna Frebel reveals the secrets of stardust and explains the cosmic origin of the elements.\n",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.8-007",
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "title": "Course Metadata"
+}
